@@ -1,7 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv1.png" group-title="CCTV",CCTV1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
-
 #EXTINF:-1 tvg-id="cx4K.cn" tvg-name="纯享4K" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cx4k.png" group-title="HD",纯享4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="mgTV.cn" tvg-name="芒果TV" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/mgtv.png" group-title="HD",芒果TV
