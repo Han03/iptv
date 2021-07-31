@@ -1,13 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1.in" tvg-name="CCTV1" tvg-country="China" tvg-language="zh-CN" tvg-logo="https://github.com/Han03/iptv/logo/cctv1.png" group-title="CCTV",CCTV1
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv1.png" group-title="CCTV",CCTV1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 
-#EXTINF:-1 tvg-id="纯享4K.in" tvg-name="纯享4K" tvg-country="China" tvg-language="zh-CN" tvg-logo="https://github.com/Han03/iptv/logo/cx4k.png" group-title="HD",纯享4K
+#EXTINF:-1 tvg-id="cx4K.cn" tvg-name="纯享4K" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cx4k.png" group-title="HD",纯享4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="芒果TV.in" tvg-name="芒果TV" tvg-country="China" tvg-language="zh-CN" tvg-logo="https://github.com/Han03/iptv/logo/mgtv.png" group-title="HD",芒果TV
+#EXTINF:-1 tvg-id="mgTV.cn" tvg-name="芒果TV" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/mgtv.png" group-title="HD",芒果TV
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-#EXTINF:-1 tvg-id="天津电视台.in" tvg-name="天津电视台" tvg-country="China" tvg-language="zh-CN" tvg-logo="https://github.com/Han03/iptv/logo/tjdst.png" group-title="HD",天津电视台
+#EXTINF:-1 tvg-id="tjdst.cn" tvg-name="天津电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/tjdst.png" group-title="HD",天津电视台
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯.in" tvg-name="凤凰资讯" tvg-country="China" tvg-language="zh-CN" tvg-logo="https://github.com/Han03/iptv/logo/fhzx.png" group-title="HD",凤凰资讯
+#EXTINF:-1 tvg-id="fhzx.cn" tvg-name="凤凰资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/fhzx.png" group-title="HD",凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-
