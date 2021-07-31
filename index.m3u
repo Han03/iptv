@@ -1,4 +1,4 @@
-#EXTM3U
+##EXTM3U
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv1.png" group-title="CCTV",CCTV1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
