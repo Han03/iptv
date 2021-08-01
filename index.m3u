@@ -2,6 +2,20 @@
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv1.png" group-title="CCTV",CCTV1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv2.png" group-title="CCTV",CCTV2
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv4.png" group-title="CCTV",CCTV4
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv5.png" group-title="CCTV",CCTV5
+http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5p.cn" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv5p.png" group-title="CCTV",CCTV5+
+http://39.134.24.24/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv7.png" group-title="CCTV",CCTV7
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv9.png" group-title="CCTV",CCTV9
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV12" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cctv12.png" group-title="CCTV",CCTV12
+http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225924/index.m3u8
 #EXTINF:-1 tvg-id="cx4K.cn" tvg-name="纯享4K" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/cx4k.png" group-title="HD",纯享4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="mgTV.cn" tvg-name="芒果TV" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/Han03/iptv/logo/mgtv.png" group-title="HD",芒果TV
